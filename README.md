@@ -1,5 +1,6 @@
 1. OBJETIVOS
-1.1. OBJETIVO GENERAL
+
+1.1 OBJETIVO GENERAL
 
 Conocer los conceptos generales de corriente, voltaje, resistencia, potencia y energía, mediante la lectura de los capítulos 3 y 4 del libro "Principios de circuitos eléctricos" de Floyd, para poder calcular de forma efectiva las magnitudes antes mencionadas y aplicarlas al análisis de una circuito eléctrico.
 
@@ -100,3 +101,89 @@ La gráfica indica que mientras la resistencia se mantenga constante, la corrien
 Recordando la Ley de Ohm se aplica la formula de resistencia es igual a voltaje sobre la intensidad de corriente.
 
 ![image](https://user-images.githubusercontent.com/94008521/142288911-1742a40c-7f08-4e67-975f-6a6c9e0a8643.png)
+
+9. Trace la relación corriente-voltaje para un resistor de cinco bandas con código de colores café, verde, gris, café, rojo.
+
+- Primero debemos determinar el valor de la resistencia propuesta.
+
+![image](https://user-images.githubusercontent.com/94008521/142289147-4cc48a0f-a9ab-4deb-97d5-8e1c7a4868d5.png)
+
+![image](https://user-images.githubusercontent.com/94008521/142289163-6e706747-e595-4b90-90ef-df6001260521.png)
+
+Proseguimos a realizar una tabulación de datos:
+
+![image](https://user-images.githubusercontent.com/94008521/142289207-01c19b5d-4873-4cd3-ab31-23cf883512bd.png)
+
+Por último realizamos una gráfica con la tabulación y se obtiene lo siguiente:
+
+![image](https://user-images.githubusercontent.com/94008521/142289282-2ee7313a-8560-4853-b04f-daf73f726f18.png)
+
+11. Se mide la corriente en un circuito que opera con una batería de 10 V. El amperímetro lee 50 mA. Más tarde, se observa que la corriente cae a 30 mA. Eliminando la posibilidad de un cambio de resistencia, debe concluirse que el voltaje ha cambiado. ¿Cuánto ha cambiado el voltaje de la batería y cuál es su nuevo valor?
+
+- Realizamos una regla de tres para encontrar el nuevo valor de la bateria.
+
+![image](https://user-images.githubusercontent.com/94008521/142289442-1219d1de-acb0-41b5-a0c8-4e6d355a3a00.png)
+
+El voltaje de la batería paso de 10V a 6v, por lo cual se puede decir que al voltaje inicial se le resto 4V.
+
+13. Trace una gráfica de corriente contra voltaje con valores de voltaje que vayan de 10 a 100 V, en incrementos de 10 V, para cada uno de los siguientes valores de resistencia:
+
+Para todas estas gráficas efectuamos el proceso del ejercicio 9 considerando que la intensidad de corriente va a ser igual al voltaje sobre el valor de la resistencia.
+
+- 1 ohmio
+
+![image](https://user-images.githubusercontent.com/94008521/142290017-9fd1e065-c0ff-4aa8-bc79-366cdfca6ddb.png)
+
+- 5 ohmios
+
+![image](https://user-images.githubusercontent.com/94008521/142290043-87e8f199-ecd4-4f65-ae84-3f6a10c309e8.png)
+
+- 20 ohmios
+
+![image](https://user-images.githubusercontent.com/94008521/142290067-4f0bb8fe-ddef-4313-8571-8c63912c8b46.png)
+
+- 100 ohmios
+
+![image](https://user-images.githubusercontent.com/94008521/142290099-228af06d-d5bd-49f7-bcbe-9dcc3ddc983f.png)
+
+15. Determine la corriente en cada caso:
+
+Para todos los ejercicios a continuación se aplica la Ley de Ohm para encontrar el valor de la corriente, en este caso es que la intensidad de corriente es igual al voltaje sobre la resistencia del circuito.
+
+![image](https://user-images.githubusercontent.com/94008521/142290178-0d98259d-8938-4460-adbb-179300083e03.png)
+
+![image](https://user-images.githubusercontent.com/94008521/142290314-25d55ddf-bb11-40dc-818f-c86b7b6d0d86.png)
+
+![image](https://user-images.githubusercontent.com/94008521/142290326-1af1d0e6-e3f7-4e76-b607-2ef20122c70e.png)
+
+![image](https://user-images.githubusercontent.com/94008521/142290336-5159f493-e1f4-48c0-9016-17f480592d15.png)
+
+![image](https://user-images.githubusercontent.com/94008521/142290365-1761f7cc-add5-4cca-933f-fc3c67c42342.png)
+
+![image](https://user-images.githubusercontent.com/94008521/142290383-2b337a9b-4954-4f43-85b2-1bf38cdab13b.png)
+
+![image](https://user-images.githubusercontent.com/94008521/142290391-1d761688-cc39-4697-868f-8b4aa48084e5.png)
+
+![image](https://user-images.githubusercontent.com/94008521/142290402-e976dce4-57af-47a0-b87f-da7fb5e5aa10.png)
+
+![image](https://user-images.githubusercontent.com/94008521/142290410-f5a2eb7e-66ee-4aa1-80ce-49bade75a432.png)
+
+![image](https://user-images.githubusercontent.com/94008521/142290418-80627a26-a388-4902-8e99-b0d605625c50.png)
+
+17. Se conecta un resistor de 10 ohmios a través de una batería de 12 V. ¿Cuál es la corriente a través del resistor?
+
+Para esta ejercicios de igual forma se aplica que la intensidad de corriente es igual al voltaje sobre la resistencia del circuito.
+
+![image](https://user-images.githubusercontent.com/94008521/142290613-de5112b0-5243-4621-840c-047c2fa5cb2d.png)
+
+19. Se conecta un resistor de cuatro bandas a través de las terminales de una fuente de 25 V. Determine la corriente del resistor si el código de colores es amarillo, violeta, naranja, plata.
+
+Primero debemos hallar el valor de la resistencia.
+
+![image](https://user-images.githubusercontent.com/94008521/142290680-8cc94e8c-a19c-443d-be57-c765900581f2.png)
+
+![image](https://user-images.githubusercontent.com/94008521/142290706-86abfb33-4427-4db3-b775-69fccdb38b69.png)
+
+Por consiguiente, se aplica que la intensidad de corriente es igual al voltaje sobre la resistencia del circuito.
+
+![image](https://user-images.githubusercontent.com/94008521/142290792-ad4be350-aa11-49e2-84c0-b5caf0539988.png)
