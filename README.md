@@ -187,3 +187,13 @@ Primero debemos hallar el valor de la resistencia.
 Por consiguiente, se aplica que la intensidad de corriente es igual al voltaje sobre la resistencia del circuito.
 
 ![image](https://user-images.githubusercontent.com/94008521/142290792-ad4be350-aa11-49e2-84c0-b5caf0539988.png)
+
+5. VIDEO
+
+
+
+7. CONCLUSIONES
+
+- Aplicando la Ley de Ohm y reconociendo la relación que existe en las magnitudes de corriente, voltaje y resistencia se tiene que, las formulas son los siguientes: voltaje es igual a la resistencia por la intensidad de corriente, la resistencia es igual al voltaje sobre la intensidad de corriente y por último la intensidad de corriente es igual a voltaje sobre resistencia del circuito.
+
+9. BILBIOGRAFÍA
