@@ -190,10 +190,18 @@ Por consiguiente, se aplica que la intensidad de corriente es igual al voltaje s
 
 5. VIDEO
 
-
+https://youtu.be/jVs35xhYoHA 
 
 7. CONCLUSIONES
 
 - Aplicando la Ley de Ohm y reconociendo la relación que existe en las magnitudes de corriente, voltaje y resistencia se tiene que, las formulas son los siguientes: voltaje es igual a la resistencia por la intensidad de corriente, la resistencia es igual al voltaje sobre la intensidad de corriente y por último la intensidad de corriente es igual a voltaje sobre resistencia del circuito.
 
 9. BILBIOGRAFÍA
+
+-	4° ESO, Eléctrica y Eletrónica. (06 de Obtubre de 2014). Obtenido de https://www3.gobiernodecanarias.org/medusa/ecoblog/fsancac/2014/10/06/energia-y-potencia-electrica/
+-	Blanco, T. (19 de Febrero de 2021). Obtenido de https://www.bbva.com/es/sostenibilidad/que-es-y-como-calcular-la-potencia-electrica/ 
+-	Electrónica. (08 de Enero de 2021). Obtenido de https://www.redeweb.com/actualidad/resistencia-electrica/
+-	Espacio Honduras. (22 de Obtubre de 2020). Obtenido de https://www.espaciohonduras.net/voltaje-electrico
+-	IBERDROLA. (11 de Mayo de 2021). Obtenido de https://www.iberdrola.es/blog/luz/que-es-voltaje-electrico-como-medirlo
+-	Martín, T., & Serrano, A. (15 de Julio de 2018). Electrostática. Obtenido de https://www2.montes.upm.es/dptos/digfa/cfisica/electro/corriente.html
+-	Mecafenix s.a. (07 de Junio de 2020). Obtenido de https://www.ingmecafenix.com/electronica/resistencia-electrica/
