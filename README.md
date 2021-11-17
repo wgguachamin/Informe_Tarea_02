@@ -100,7 +100,7 @@ La gráfica indica que mientras la resistencia se mantenga constante, la corrien
 
 Recordando la Ley de Ohm se aplica la formula de resistencia es igual a voltaje sobre la intensidad de corriente.
 
-![image](https://user-images.githubusercontent.com/94008521/142288911-1742a40c-7f08-4e67-975f-6a6c9e0a8643.png)
+![image](https://user-images.githubusercontent.com/94008521/142292686-0829c8ae-b2e3-4884-a612-c57b27a3b691.png)
 
 9. Trace la relación corriente-voltaje para un resistor de cinco bandas con código de colores café, verde, gris, café, rojo.
 
