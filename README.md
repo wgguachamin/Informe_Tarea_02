@@ -43,3 +43,60 @@ Conocer los conceptos generales de corriente, voltaje, resistencia, potencia y e
 
 ![image](https://user-images.githubusercontent.com/94008521/142287804-4f5537c2-a206-4e3d-94d6-444d5cff1fea.png)
 
+3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
+
+SECCION 3-1 La relación de corriente, voltaje y resistencia
+
+1. En un circuito compuesto de una fuente de voltaje y un resistor, describa qué le sucede a la corriente cuando.
+
+- El voltaje se triplica.
+
+Cuando el voltaje se triplica, la corriente que recorre el circuito se incrementa tres veces.
+
+- El voltaje se reduce en 75%.
+
+Si el voltaje se reduce en un 75%, la corriente se reducirá de igual forma en un 75%.
+
+- La resistencia se duplica.
+
+Si la resistencia se duplica, la corriente se reduce a la mitad.
+
+- La resistencia se reduce en 35%.
+
+Si la resistencia se reduce en 35%, la corriente aumentará en un 35%.
+
+- El voltaje se duplica y la resistencia se reduce a la mitad.
+
+La corriente se incrementaría cuatro veces si el voltaje se duplica y la resistencia se reduce a la mitad.
+
+- El voltaje y la resistencia se duplican.
+
+Si la resistencia y el voltaje se duplican la corriente se mantiene igual, es decir no incremente ni disminuye.
+
+3. Enuncie la fórmula utilizada para encontrar V cuando los valores de I y R son conocidos.
+
+Esta formula se deduce por la Ley de Ohm que dice que voltaje es igual al producto de la corriente por la resistencia.
+
+![image](https://user-images.githubusercontent.com/94008521/142288684-b0376c2a-1244-4f8f-9ad5-edd20368999a.png)
+
+5. Se conecta una fuente de voltaje variable al circuito de la figura 3-18. Comience con 0 V e incremente el voltaje, en pasos de 10 V, hasta 100 V. Determine la corriente en cada voltaje y trace una gráfica de V contra I. ¿Es la gráfica una línea recta? ¿Qué indica la gráfica?
+
+![image](https://user-images.githubusercontent.com/94008521/142288751-a41d623b-d859-4e62-bbc2-476101ddba92.png)
+
+![image](https://user-images.githubusercontent.com/94008521/142288771-fcc64ad3-50a3-4b16-9c5b-a920d6182358.png)
+
+¿Es la gráfica una línea recta? 
+
+Efectivamente la gráfica obtenida es una línea recta.
+
+¿Qué indica la gráfica?
+
+La gráfica indica que mientras la resistencia se mantenga constante, la corriente y el voltaje son linealmente proporcionales, es decir que si el voltaje aumenta la corriente aumentará de igual forma.
+
+7. La figura 3-19 es una gráfica de corriente contra voltaje para tres valores de resistencia. Determine R1, R2 y R3.
+
+![image](https://user-images.githubusercontent.com/94008521/142288826-f0ddcad0-c127-4fbc-86bb-917b6376ea89.png)
+
+Recordando la Ley de Ohm se aplica la formula de resistencia es igual a voltaje sobre la intensidad de corriente.
+
+![image](https://user-images.githubusercontent.com/94008521/142288911-1742a40c-7f08-4e67-975f-6a6c9e0a8643.png)
