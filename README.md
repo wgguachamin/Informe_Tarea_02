@@ -343,9 +343,9 @@ Vs=V1+V2
 
 El ejercicio nos dice que ahora el circuito es de 110V, por lo que colocamos ese dato en Vs y a las caídas de voltaje V1 y V2 las reemplazamos por (IxR) que viene de la ley de ohm y así calculamos la resistencia mínima que necesita el circuito para una corriente de 1A. 
 
-![image](https://user-images.githubusercontent.com/93960809/142348307-2f0dae74-e99a-42ba-aaca-33630433f9b3.png)
+![image](https://user-images.githubusercontent.com/93960809/142420158-d1e43795-03ef-4f60-a14b-c708477b07b9.png)
 
-Por tanto, la resistencia mínima a la que puede ser ajustado un reóstato es 105 Ω.
+Por tanto, la resistencia mínima a la que puede ser ajustado un reóstato es 95 Ω.
 
 SECCIÓN 3–5 Introducción a la localización de fallas
 
