@@ -196,6 +196,18 @@ Por consiguiente, se aplica que la intensidad de corriente es igual al voltaje s
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
 11. Un dispositivo electrónico en particular utiliza 100 mW de potencia. Si funciona durante 24 h, ¿cuántos Joules de energía consume?
 
 ![image](https://user-images.githubusercontent.com/93415377/142338425-7f5494f6-57c1-4b5f-8455-bc43e696dbf7.png)
