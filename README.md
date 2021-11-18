@@ -195,21 +195,216 @@ Por consiguiente, se aplica que la intensidad de corriente es igual al voltaje s
 
 ![image](https://user-images.githubusercontent.com/94008521/142290792-ad4be350-aa11-49e2-84c0-b5caf0539988.png)
 
+21. Si el voltaje del problema 20 se duplica, ¿se fundirá un fusible de 0.5 A? Explique su respuesta.
+Del problema 20 tenemos lo siguiente:
+
+![image](https://user-images.githubusercontent.com/93960809/142346715-5ec6b3a3-f1fc-44ff-be79-353f7aa74d28.png)
+
+Ahora, calculando la nueva corriente que tendremos con el voltaje duplicado, es decir, 24 V; mediante la ley de ohm se tiene que:
+
+![image](https://user-images.githubusercontent.com/93960809/142346754-edc73276-c36c-45ea-9e3b-1522ae39c6b3.png)
+
+Como se sabe, un fusible se quema cuando la cantidad de corriente que circula sobrepasa el valor de corriente para el cual está diseñado dicho fusible. El valor actual de la corriente gracias al nuevo voltaje de 24V es 0.64 amperios, por lo que esta cantidad de corriente supera a los 0.5 amperios para los que está diseñado el fusible haciendo que este sí se funda. 
+
+SECCIÓN 3–3 Cálculo de voltaje
+
+23. Calcule el voltaje para cada valor de I y R:
+
+Para calcular el voltaje teniendo ya los valores de intensidad y resistencia usamos la ley de ohm que nos dice que V=IxR. Aplicamos esta fórmula para cada ítem.
+
+a)	I=2 A, R=18 Ω
+     
+     V=2A*18Ω
+     V=36V
+
+b)	I=5 A, R=56 Ω
+
+     V=5A*56Ω
+     V=280V
+
+c)	I=2.5 A, R=680 Ω
+
+     V=2.5A*680Ω
+     V=1700V
+
+d)	I=0.6 A, R=47 Ω
+
+     V=0.6A*47Ω
+     V=28.2V
+
+e)	I=0.1 A, R=560 Ω
+
+     V=0.1A*560Ω
+     V=56V
+25. Se leen tres amperes de corriente a través de un resistor de 27 Ω conectado a una fuente de voltaje.
+¿Cuánto voltaje produce la fuente?
+
+Para calcular voltaje aplicamos la ley de ohm V=IxR
+
+V=3Ax27Ω
+
+V=81V
+     
+Por tanto, la fuente produce 81 voltios. 
+
+27. Se conecta una fuente de 6 V a un resistor de 100 Ω mediante dos tramos de alambre de cobre calibre 18 de 12 pies de largo. La resistencia total es la resistencia de los dos alambres sumada al resistor de 100 Ω. Determine lo siguiente:
 
 
+Antes de calcular cada uno de los literales debemos conocer la resistencia de los tramos de alambre de cobre, por lo que para eso usamos la siguiente fórmula para calcular la resistencia del alambre conductor: 
+
+![image](https://user-images.githubusercontent.com/93960809/142347384-4d4eae8b-f95c-4c59-9824-0e608a9a375f.png)
+
+Dónde:
+
+•	R= resistencia del conductor (Ω)
+
+•	ρ = resistividad del material de que esta hecho el conductor (Ω∙m)
+
+•	L= longitud del conductor(m)
+
+•	A= área de la sección transversal del conductor (m^2)
 
 
+Del internet obtenemos el dato de resistividad del cobre que es 1.72x10^-8 y así mismo convertimos los 12 pies a metros.  Así mismo, calculamos el área de la sección transversal del conductor que viene siendo el diámetro al cuadrado multiplicado por pi y divido para 4. Entonces nos queda: 
+
+![image](https://user-images.githubusercontent.com/93960809/142347443-4ce7ca39-d672-4051-97b8-8bc28b4894c3.png)
+
+(a)	Corriente
+
+![image](https://user-images.githubusercontent.com/93960809/142347484-9d9eabd5-656c-4d8e-83c8-855d9bfc395a.png)
+
+(b)	Caída de voltaje en el resistor
+
+![image](https://user-images.githubusercontent.com/93960809/142347521-789bbfe9-3f77-41b0-a9ba-1b2911e510db.png)
+
+(c)	Caída de voltaje a través de cada tramo de alambre
+
+![image](https://user-images.githubusercontent.com/93960809/142347587-3be1930c-186a-4971-94d8-946027709d56.png)
+
+Esta medida de caída de voltaje es la misma para los dos alambres.
+
+SECCIÓN 3–4 Cálculo de la resistencia
+
+29. Calcule la resistencia de un reóstato para cada juego de valores de V e I:
+Para calcular el voltaje teniendo ya los valores de intensidad y resistencia usamos la ley de ohm que nos dice que R=V/I. Aplicamos esta fórmula para cada ítem.
+
+a)	V=10kV; I=5A
+
+     R=10kV/5A
+     R=2k Ω
+
+b)	V=7V, I=2mA
+
+     R=7V/2mA
+     R=3.5k Ω
+
+c)	V=500V, I=250mA
+
+     R=500V/250mA
+     R=2k Ω
+
+d)	V= 50V, I=500 µA
+
+     R=50V/500µA
+     R=0.1M Ω
+
+e)	V= 1kV, I=1mA
+
+     R=1kV/1mA
+     R=1M Ω
+     
+31. En el circuito de la figura 3-23(a), el filamento de una lámpara tiene cierta cantidad de resistencia, la cual está representada por una resistencia equivalente en la figura 3-23(b). Si la lámpara opera con 120 V y 0.8 A de corriente, ¿cuál es la resistencia de su filamento cuando está encendida?
+
+![image](https://user-images.githubusercontent.com/93960809/142347985-90b588f8-4cb4-4abc-a295-f538ed45ddbf.png)
+
+Primero calculamos la resistencia del circuito a)
+
+![image](https://user-images.githubusercontent.com/93960809/142348032-e924706f-06c0-4591-ab27-b73c063295a6.png)
+
+Por tanto, como la resistencia del filamento del circuito b) es equivalente a la resistencia del circuito a); la resistencia del filamento es 150 Ω.
+
+33. Al variar el reóstato (resistor variable) en el circuito de la figura 3-24, puede cambiar la cantidad de corriente. El ajuste del reóstato es tal que la corriente es de 750 mA. ¿Cuál es el valor de resistencia de este ajuste? Para ajustar la corriente a 1 A, ¿a qué valor de resistencia debe ajustar el reóstato? ¿Cuál es el problema con el circuito?
+
+![image](https://user-images.githubusercontent.com/93960809/142348065-adaf3413-dbea-42b5-b7ff-4f615b80ee3c.png)
+
+Respondiendo a la primera pregunta, calculamos el valor de la resistencia mediante la ley de ohm y tenemos lo siguiente: 
+
+![image](https://user-images.githubusercontent.com/93960809/142348088-79fbf521-cf43-403a-8385-ea2a51073ef4.png)
+
+Para la segunda pregunta, reajustando la corriente a 1 A tenemos: 
+
+![image](https://user-images.githubusercontent.com/93960809/142348117-1b51ae59-380b-492c-9035-a6bbb6945d67.png)
+
+35. Repita el problema 34 con un circuito de 110 V y un fusible de 1 A.
+
+Para calcular el valor de la resistencia mínima a la que puede ser ajustado el reóstato aplicamos la ley de Kirchhoff de los voltajes que nos dice que la suma de la caída de voltajes es igual al voltaje de la fuente principal. Por lo que tenemos: 
+
+Vs=V1+V2
+
+El ejercicio nos dice que ahora el circuito es de 110V, por lo que colocamos ese dato en Vs y a las caídas de voltaje V1 y V2 las reemplazamos por (IxR) que viene de la ley de ohm y así calculamos la resistencia mínima que necesita el circuito para una corriente de 1A. 
+
+![image](https://user-images.githubusercontent.com/93960809/142348307-2f0dae74-e99a-42ba-aaca-33630433f9b3.png)
+
+Por tanto, la resistencia mínima a la que puede ser ajustado un reóstato es 105 Ω.
+
+SECCIÓN 3–5 Introducción a la localización de fallas
+
+37. Suponga que tiene una serie de 32 luces y uno de los focos se fundió. Con el método de división a la mitad, y comenzando por la mitad izquierda del circuito, ¿cuántas lecturas de resistencia tomará localizar el foco fundido si es el décimo séptimo de izquierda a derecha?
 
 
+La primera lectura se realiza a la mitad izquierda del circuito, como da una buena lectura de resistencia eso significa que la falla se encuentra en la otra mitad.
+La segunda lectura se realiza en la mitad derecha del circuito, y no sale una lectura infinita, lo cual indica una parte abierta del circuito por un foco fundido.
+La tercera lectura la realizamos en la mitad derecha de la mitad principal que nos dio la lectura infinita, y como esta nos da una buena lectura, vamos a medir la otra mitad de la izquierda.
+La cuarta lectura la realizamos en la mitad izquierda de la mitad principal que nos dio la lectura infinita, y al volver a salir una lectura infinita determinamos que la falla se encuentra dentro de los focos correspondientes de entre el 17 al 24.
+Para la quinta lectura, volviendo a hacer la división de la mitad en los focos del 17 al 24, analizando la mitad de la derecha nos da una buena lectura, lo que significa que la falla se encuentra en los focos de entre el 17 al 20, ósea la mitad izquierda. 
+La sexta lectura arrojada en la mitad izquierda nos da infinita, por lo que procedemos a hacer otra división.
+La séptima lectura la realizamos en la mitad derecha por lo que determinamos que los focos 19 y 20 no tienen error al obtener una buena lectura de estos.
+La octava lectura la realizamos en la mitad izquierda y se determina que la falla esta en el foco 17 o 18.
+La novena y última lectura nos muestra que la falla se encuentra en el foco 17.
 
+Por tanto, se realizarían 9 lecturas en total.
 
+CAPÍTULO 4
 
+SECCIÓN 4–1 Energía y potencia
 
+1. Demuestre que la unidad de potencia (el watt) equivale a un volt por un ampere.
 
+La potencia consumida es directamente proporcional al voltaje suministrado y a la corriente que circula.
 
+![image](https://user-images.githubusercontent.com/93960809/142348674-7b859702-4d97-42ad-a8d8-7e98585e2d6e.png)
 
+Por tanto, watt es igual a volt por ampere.
 
+3. ¿Cuál es la potencia cuando se consume energía a razón de 350 J/s?
 
+Para esto usamos la fórmula de potencia es igual a energía sobre tiempo
+
+![image](https://user-images.githubusercontent.com/93960809/142348734-68cdb06b-fc46-490c-a418-b13212d025bc.png)
+
+5. ¿A cuántos watts equivalen 1000 J en 50 ms?
+
+![image](https://user-images.githubusercontent.com/93960809/142348782-f98d5dfd-147e-4210-8d67-9a872d47363f.png)
+
+7. Convierta las siguientes cantidades en megawatts:
+
+(a)	1,000,000 W = 1MW
+
+(b)	3x10^6W = 3MW
+
+(c)	15x10^7W= 150x10^6W=150MW
+
+(d)	8700kW = 8.7 MW
+
+9. Convierta las siguientes cantidades en microwatts:
+
+(a) 2 W = 2000000 µW 
+
+(b) 0.0005 W = 500 µW
+
+(c) 0.25 mW = 250 µW
+
+(d) 0.00667 mW = 6.67 µW 
 
 
 11. Un dispositivo electrónico en particular utiliza 100 mW de potencia. Si funciona durante 24 h, ¿cuántos Joules de energía consume?
@@ -283,6 +478,7 @@ https://youtu.be/jVs35xhYoHA
 7. CONCLUSIONES
 
 - Aplicando la Ley de Ohm y reconociendo la relación que existe en las magnitudes de corriente, voltaje y resistencia se tiene que, las formulas son los siguientes: voltaje es igual a la resistencia por la intensidad de corriente, la resistencia es igual al voltaje sobre la intensidad de corriente y por último la intensidad de corriente es igual a voltaje sobre resistencia del circuito.
+- Gracias a la implementación de la ley de Ohm así como de las leyes de Kirchhoff se pudo realizar de manera eficaz los cálculos respectivos para cada circuito, relacionando así resistencias equivalentes entre circuitos, entre otras. Además, se logró comprender cómo gracias al método de división de la mitad se pueden localizar fallas en un circuito. 
 
 9. BILBIOGRAFÍA
 
