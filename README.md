@@ -343,9 +343,9 @@ Vs=V1+V2
 
 El ejercicio nos dice que ahora el circuito es de 110V, por lo que colocamos ese dato en Vs y a las caídas de voltaje V1 y V2 las reemplazamos por (IxR) que viene de la ley de ohm y así calculamos la resistencia mínima que necesita el circuito para una corriente de 1A. 
 
-![image](https://user-images.githubusercontent.com/93960809/142420158-d1e43795-03ef-4f60-a14b-c708477b07b9.png)
+![image](https://user-images.githubusercontent.com/93960809/142348307-2f0dae74-e99a-42ba-aaca-33630433f9b3.png)
 
-Por tanto, la resistencia mínima a la que puede ser ajustado un reóstato es 95 Ω.
+Por tanto, la resistencia mínima a la que puede ser ajustado un reóstato es 105 Ω.
 
 SECCIÓN 3–5 Introducción a la localización de fallas
 
@@ -451,8 +451,7 @@ SECCIÓN 4–3 Clasificaciones de potencia en resistores
 
 27. Cierto tipo de resistor viene en las siguientes clasificaciones: 3 W, 5 W, 8 W, 12 W, 20 W. Una aplicación en particular requiere de un resistor que pueda manejar aproximadamente 8 W. ¿Qué clasificación utilizaría usted para tener un margen de seguridad mínimo del 20% sobre el valor nominal? ¿Por qué?
 
-
-
+![image](https://user-images.githubusercontent.com/93415377/142420495-677ae209-1c77-4108-af29-c3552ca30226.png)
 
 SECCIÓN 4–5 Fuentes de potencia 
 
