@@ -7,9 +7,13 @@ Conocer los conceptos generales de corriente, voltaje, resistencia, potencia y e
 1.2. OBJETIVOS ESPECÍFICOS
 
 •	Aplicar la Ley de Ohm para determinar las fórmulas de voltaje, corriente y resistencia.
+
 •	Determinar la relación que existe entre las magnitudes de voltaje, corriente y resistencia.
+
 •	Conocer la utilidad que tienen dentro de los circuitos eléctricos la potencia y la energía.
+
 •	Identificar correctamente la resolución de cada ejercicio.
+
 •	Realizar un análisis de los conceptos de la Ley de Ohm, energía, potencia, consumo eléctrico.
 
 
