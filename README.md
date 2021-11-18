@@ -6,9 +6,12 @@ Conocer los conceptos generales de corriente, voltaje, resistencia, potencia y e
 
 1.2. OBJETIVOS ESPECÍFICOS
 
-- Aplicar la Ley de Ohm para determinar las fórmulas de voltaje, corriente y resistencia.
-- Determinar la relación que existe entre las magnitudes de voltaje, corriente y resistencia.
-- Conocer la utilidad que tienen dentro de los circuitos eléctricos la potencia y la energía.
+•	Aplicar la Ley de Ohm para determinar las fórmulas de voltaje, corriente y resistencia.
+•	Determinar la relación que existe entre las magnitudes de voltaje, corriente y resistencia.
+•	Conocer la utilidad que tienen dentro de los circuitos eléctricos la potencia y la energía.
+•	Identificar correctamente la resolución de cada ejercicio.
+•	Realizar un análisis de los conceptos de la Ley de Ohm, energía, potencia, consumo eléctrico.
+
 
 2. MARCO TEÓRICO
 
@@ -187,6 +190,75 @@ Primero debemos hallar el valor de la resistencia.
 Por consiguiente, se aplica que la intensidad de corriente es igual al voltaje sobre la resistencia del circuito.
 
 ![image](https://user-images.githubusercontent.com/94008521/142290792-ad4be350-aa11-49e2-84c0-b5caf0539988.png)
+
+
+
+
+
+
+11. Un dispositivo electrónico en particular utiliza 100 mW de potencia. Si funciona durante 24 h, ¿cuántos Joules de energía consume?
+
+![image](https://user-images.githubusercontent.com/93415377/142338425-7f5494f6-57c1-4b5f-8455-bc43e696dbf7.png)
+
+
+13. Al final de un periodo de 31 días, su recibo de electricidad muestra que utilizó 1500 kWh. ¿Cuál fue su consumo de potencia diario promedio?
+
+![image](https://user-images.githubusercontent.com/93415377/142338488-ec15b5f4-1c4d-4375-9db4-a963d7fefea1.png)
+
+
+15. Convierta 6700 watts-segundos en kWh. 
+
+![image](https://user-images.githubusercontent.com/93415377/142338533-a5da115e-f83b-453f-8992-1d2e162c4acb.png)
+
+SECCIÓN 4–2 Potencia en un circuito eléctrico 
+17. Si una fuente de 75 V está suministrando 2 A a una carga, ¿cuál es el valor de resistencia de la carga?
+
+![image](https://user-images.githubusercontent.com/93415377/142338583-9b59fc76-6614-4772-834d-9e789bfaf50e.png)
+
+19. Un calentador eléctrico funciona con 120 V y absorbe 3 A de corriente. ¿Cuánta potencia utiliza? 
+
+![image](https://user-images.githubusercontent.com/93415377/142338682-a2b62f67-97fb-40f5-a806-b4dc657e2691.png)
+
+21. Calcule la potencia disipada por un resistor de 10 kΩ que transporta 100 µA.
+
+![image](https://user-images.githubusercontent.com/93415377/142338774-72fc8591-17e0-452a-9b1d-22eb004135d1.png)
+
+23. Se conecta un resistor de 56 Ω entre las terminales de una batería de 1.5 V. ¿Cuál es la disipación de potencia en el resistor? 
+
+![image](https://user-images.githubusercontent.com/93415377/142338818-19d6b95f-6df7-41e2-b6b5-bfe21fb8a4e8.png)
+
+25. Una fuente de 12 V se conecta entre los extremos de un resistor de 10 Ω. 
+(a) ¿Cuánta energía se utiliza en dos minutos? 
+
+![image](https://user-images.githubusercontent.com/93415377/142338897-c647ff1c-4d44-4a1a-8241-ab149ba7117d.png)
+
+(b) Si después de un minuto se desconecta el resistor, ¿es la potencia durante este primer minuto mayor, menor o igual a la potencia que hay durante un intervalo de dos minutos?
+
+![image](https://user-images.githubusercontent.com/93415377/142338933-a0165a7e-b3c9-4b80-bc5a-acb877ad5354.png)
+
+SECCIÓN 4–3 Clasificaciones de potencia en resistores
+27. Cierto tipo de resistor viene en las siguientes clasificaciones: 3 W, 5 W, 8 W, 12 W, 20 W. Una aplicación en particular requiere de un resistor que pueda manejar aproximadamente 8 W. ¿Qué clasificación utilizaría usted para tener un margen de seguridad mínimo del 20% sobre el valor nominal? ¿Por qué?
+
+
+
+
+SECCIÓN 4–5 Fuentes de potencia 
+29. Una carga de 50Ω utiliza 1 W de potencia. ¿Cuál es el voltaje de salida de la fuente de potencia? 
+
+
+
+31. ¿Cuál es la energía total en joules que suministra la batería del problema 30 durante 90 horas?
+
+![image](https://user-images.githubusercontent.com/93415377/142339058-b9228a84-f481-4cb6-98a8-c23d996df641.png)
+
+33. ¿Cuánta corriente promedio puede ser absorbida de una batería de 80 Ah durante 10 h? 
+
+![image](https://user-images.githubusercontent.com/93415377/142339144-3fda855f-0d8a-4ddb-a289-f4e7aabfba81.png)
+
+35. Si la potencia de entrada es de 500 mW y la de salida de 400 mW, ¿cuánta potencia se pierde? ¿Cuál es la eficiencia de esta fuente de potencia
+
+![image](https://user-images.githubusercontent.com/93415377/142339212-ab4d0c81-baa6-4332-85a2-3f6daf3bcee2.png)
+
 
 5. VIDEO
 
