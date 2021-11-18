@@ -343,9 +343,9 @@ Vs=V1+V2
 
 El ejercicio nos dice que ahora el circuito es de 110V, por lo que colocamos ese dato en Vs y a las caídas de voltaje V1 y V2 las reemplazamos por (IxR) que viene de la ley de ohm y así calculamos la resistencia mínima que necesita el circuito para una corriente de 1A. 
 
-![image](https://user-images.githubusercontent.com/93960809/142348307-2f0dae74-e99a-42ba-aaca-33630433f9b3.png)
+![image](https://user-images.githubusercontent.com/93960809/142420764-dbfee679-dd24-40b1-a836-7c0c4866f8c9.png)
 
-Por tanto, la resistencia mínima a la que puede ser ajustado un reóstato es 105 Ω.
+Por tanto, la resistencia mínima a la que puede ser ajustado un reóstato es 95 Ω.
 
 SECCIÓN 3–5 Introducción a la localización de fallas
 
@@ -486,7 +486,7 @@ https://youtu.be/jVs35xhYoHA
 - Gracias a la implementación de la ley de Ohm así como de las leyes de Kirchhoff se pudo realizar de manera eficaz los cálculos respectivos para cada circuito, relacionando así resistencias equivalentes entre circuitos, entre otras. Además, se logró comprender cómo gracias al método de división de la mitad se pueden localizar fallas en un circuito. 
 - Potencia eléctrica y energía son dos conceptos diferentes que están vinculados al consumo de electricidad.
 - 
-•	La energía eléctrica es el resultado de la diferencia de potencial entre dos puntos, que permite establecer una corriente eléctrica entre ambos, esta se mide en vatios hora (Wh). 
+•	La energía eléctrica es el resultado de la diferencia de potencial entre dos puntos, que permite establecer una corriente eléctrica entre ambos, esta se mide en vatios hora (Wh),  
 •	La potencia eléctrica, es la relación de paso de energía de un flujo por unidad de tiempo, esta se mide en vatios o Watts (W).
 
 
