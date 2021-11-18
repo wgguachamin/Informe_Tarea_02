@@ -486,7 +486,7 @@ https://youtu.be/jVs35xhYoHA
 - Gracias a la implementación de la ley de Ohm así como de las leyes de Kirchhoff se pudo realizar de manera eficaz los cálculos respectivos para cada circuito, relacionando así resistencias equivalentes entre circuitos, entre otras. Además, se logró comprender cómo gracias al método de división de la mitad se pueden localizar fallas en un circuito. 
 - Potencia eléctrica y energía son dos conceptos diferentes que están vinculados al consumo de electricidad.
 - 
-•	La energía eléctrica es el resultado de la diferencia de potencial entre dos puntos, que permite establecer una corriente eléctrica entre ambos, esta se mide en vatios hora (Wh),  
+•	La energía eléctrica es el resultado de la diferencia de potencial entre dos puntos, que permite establecer una corriente eléctrica entre ambos, esta se mide en vatios hora (Wh). 
 •	La potencia eléctrica, es la relación de paso de energía de un flujo por unidad de tiempo, esta se mide en vatios o Watts (W).
 
 
