@@ -448,15 +448,17 @@ SECCIÓN 4–2 Potencia en un circuito eléctrico
 ![image](https://user-images.githubusercontent.com/93415377/142338933-a0165a7e-b3c9-4b80-bc5a-acb877ad5354.png)
 
 SECCIÓN 4–3 Clasificaciones de potencia en resistores
+
 27. Cierto tipo de resistor viene en las siguientes clasificaciones: 3 W, 5 W, 8 W, 12 W, 20 W. Una aplicación en particular requiere de un resistor que pueda manejar aproximadamente 8 W. ¿Qué clasificación utilizaría usted para tener un margen de seguridad mínimo del 20% sobre el valor nominal? ¿Por qué?
 
 
 
 
 SECCIÓN 4–5 Fuentes de potencia 
+
 29. Una carga de 50Ω utiliza 1 W de potencia. ¿Cuál es el voltaje de salida de la fuente de potencia? 
 
-
+![image](https://user-images.githubusercontent.com/93415377/142411823-0f06cfb9-cab8-464e-97b1-6daf288fcd1f.png)
 
 31. ¿Cuál es la energía total en joules que suministra la batería del problema 30 durante 90 horas?
 
@@ -469,6 +471,10 @@ SECCIÓN 4–5 Fuentes de potencia
 35. Si la potencia de entrada es de 500 mW y la de salida de 400 mW, ¿cuánta potencia se pierde? ¿Cuál es la eficiencia de esta fuente de potencia
 
 ![image](https://user-images.githubusercontent.com/93415377/142339212-ab4d0c81-baa6-4332-85a2-3f6daf3bcee2.png)
+
+37. Cierta fuente de potencia suministra 2 W de forma continua a una carga. Está operando al 60% de eficiencia. En un periodo de 24 h, ¿cuántos kilowatts-hora utiliza la fuente de potencia?
+
+![image](https://user-images.githubusercontent.com/93415377/142414128-3ea4a3d0-06a3-4ee6-80c0-49d1a2b28f98.png)
 
 
 5. VIDEO
